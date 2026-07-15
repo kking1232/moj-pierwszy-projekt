@@ -1,0 +1,33 @@
+body{
+    background-color:chocolate;
+    color:beige;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 40px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+h1{
+    color:aquamarine;
+    font-size: 3rem;
+    margin-bottom: 5px;
+
+}
+
+h2{
+    color:blueviolet;
+    font-weight: 300;
+    margin-top: 0;
+}
+
+ul{
+    background-color: chartreuse;
+    padding: 20px 40px;
+    border-radius: 8px;
+    border-left: 5px solid #4caf50;
+}
+
+li{
+    margin: 10px 0;
+    font-size: 1.1rem;
+}
